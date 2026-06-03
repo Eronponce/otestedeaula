@@ -6,5 +6,9 @@ Grupo:
 Este readme é sobre o repostorio da disciplina do Eron, o Integrante 2 é o Pereira, o 3 é o Ponce
 
 # Aplicações
-O integrante 2 fará uma soma
-O integrante 3 fará uma subtração
+## Integrante 2
+O integrante 2 clonará e fará um código de soma
+
+## Integrante 3
+
+O integrante 3 clonará do integrante 2 e fará uma subtração
